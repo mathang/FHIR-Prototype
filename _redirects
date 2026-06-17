@@ -1,0 +1,3 @@
+/api/fhir/* /.netlify/functions/fhir/:splat 200
+/api/seed/* /.netlify/functions/seed/:splat 200
+/* /index.html 200
